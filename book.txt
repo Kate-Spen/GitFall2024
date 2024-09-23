@@ -1,0 +1,12 @@
+The last book I read was Leviathan Wakes. It was a space opera science fiction novel about astronauts and a war between Earth and Mars. One of the main characters was the captain of a space crew and the other main character was a space cop. The setting was hundreds of years in the future where people lived on Earth, space stations, and Mars.
+
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.DS_Store
+	.gitignore
+	book.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+kate@Kates-MacBook-Pro-3 GitFall2024 % 
