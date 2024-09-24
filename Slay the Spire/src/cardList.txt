@@ -1,0 +1,5 @@
+Ace:1
+Strike:2
+Crush:4
+Blam:5
+Kazoo:3

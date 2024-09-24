@@ -1,0 +1,13 @@
+a) 13 commits
+b) Mon Sep 23 16:20:02 2024 -0500
+c) git log
+d) 3
+e) 
+f) git log only works with the history of commits, while git status inspects the working directory and staging area.
+g) shorter version of the git log command, only showing the first line of each message.
+h) git shortlog --follow Main.java
+i) git log --follow Main.java
+j) git log --grep account
+k) git log --author
+l) git log --oneline --since="2024-01-5" \
+--until="2024-01-14" --author="Lauren"
