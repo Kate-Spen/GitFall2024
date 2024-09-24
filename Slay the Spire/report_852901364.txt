@@ -1,0 +1,3 @@
+Deck ID: 852901364
+Total Cost: 15 energy
+Invalid cards: []
